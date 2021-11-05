@@ -8,19 +8,6 @@
 
 # Read Me :D
 
-### [👩먼저 해야할 일들](#👩먼저-해야할-일들)
-
-### [📁./get_model_and_dataset.py](#📁getmodelanddatasetpy)
-
-### [📁./train.py](#📁trainpy)
-
-### [📁./test.py](#📁testpy)
-
-### [📁./hardvoting.py](#📁hardvotingpy)
-
-
-
-
 
 ## 👩먼저 해야할 일들
 
