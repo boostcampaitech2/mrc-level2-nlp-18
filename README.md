@@ -108,7 +108,7 @@ $ python train.py
 
   - 기본값 : `./train_results`
 
-- #### no_token_type_ids
+- #### --no_token_type_ids
 
   - 기본값 : `True`
   - **klue-bert**처럼 `token_type_ids`를 입력으로 받는 모델의 경우,
