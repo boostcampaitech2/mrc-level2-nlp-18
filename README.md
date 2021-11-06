@@ -149,7 +149,7 @@ $ python test.py
   - 기본값 : `./test_results`
   - 모델이 추론한 결과가 json 형태로 저장됩니다. 
 
-- #### no_token_type_ids
+- #### --no_token_type_ids
 
   - 기본값 : `True`
   - **klue-bert**처럼 `token_type_ids`를 입력으로 받는 모델의 경우,
